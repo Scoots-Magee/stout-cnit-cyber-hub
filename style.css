@@ -1,8 +1,12 @@
 body {
 font-family: Arial, sans-serif;
+feature/hub-cards
 margin: 0;
 Developed by Dr. Holly Yuan for CNIT 381 class
 background-color: #f4f7f9;
+
+margin: 0;background-color: #f4f7f9;
+ main
 color: #222;
 }
 .site-header {
@@ -32,6 +36,7 @@ padding: 24px;
 max-width: 860px;
 margin: 0 auto;
 }
+ feature/hub-cards
 
 
 .hub-card {
@@ -56,3 +61,4 @@ border-radius: 14px;
 font-size: 0.75rem;
 font-weight: bold;
 }
+main
